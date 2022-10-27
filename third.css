@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    margin: 0;
+    font-family: 'oswald';
+    color: rgb(155, 68, 27);
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    text-align: center;
+  border: 5px solid rgb(44, 44, 44);   
+   margin-top: -140px;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+p{
+    font-family: 'fira sans';
+    font-weight: bolder;
+    font-size: 52px;
+    
+}
+main{
+    background-color:rgb(219, 108, 94) ;
+    margin: 200px auto 72px auto;
+   border: 5px solid rgb(44, 44, 44);
+   border-radius: 6px;
+   box-shadow: 1px 2px 5px rgba(0, 0, 0,5);
+    padding: 24px;
+    width: 800px;
+}
+span{
+    color: rgb(66,2,2);
+}
+a{
+    background-color: black;
+    padding: 24px;
+    border-radius: 30px;
+    font-size: 22px;
+    font-family: 'oswald';
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(37, 35, 35);
+}

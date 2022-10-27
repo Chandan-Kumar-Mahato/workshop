@@ -1,0 +1,71 @@
+body {
+  text-align: center;
+  margin: 25px;
+}
+h1 {
+  font-family: "oswald", sans-serif;
+  color: black;
+  font-size: 54px;
+  padding: 20px;
+  margin: 0;
+  border: 0;
+}
+a {
+  font-family: "Fira Sans";
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  background-color: rgb(124, 75, 92);
+  border-radius: 6px;
+  padding: 16px 62px 16px 62px;
+
+}
+a:hover {
+  text-decoration: none;
+  color: rgb(68, 50, 56) ;
+  background-color: rgb(124, 75, 92);
+}
+li {
+  font-family: "Fira Sans", sans-serif;
+  list-style: none;
+  background-color: rgb(200, 253, 153);
+  border-radius: 6px;
+  margin: 32px;
+  padding: 32px;
+  content: 25px;
+  box-shadow: 1px 1px 4px rgba(1, 2, 5, 4);
+}
+label {
+ display: inline-block;
+ font-size: 20px;
+ font-weight: bold;
+ font-family: sans-serif;
+ background-color: rgb(128, 177, 86);
+ padding: 16px;
+ border-radius: 25px;
+}
+h2 {
+  font-family: 'oswald', sans-serif;
+}
+.Good{
+   font-family: sans-serif;
+   color: white;
+    background-color: rgb(147, 209, 93);
+}
+
+main p{
+    font-family: 'fira sans';
+    color: rgb(27, 20, 10);
+    margin: 12px;
+    font-weight: bold;
+}
+p{
+  font-family: 'oswald';
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-weight: bold;
+  font-style: italic;
+}
+footer{
+  margin-bottom: 45px;
+}

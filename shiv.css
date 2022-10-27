@@ -1,0 +1,38 @@
+
+h1 {
+  text-align: center;
+  color: red;
+}
+p {
+  text-align: center;
+  font-family: "Fira Sans", sans-serif;
+}
+a {
+  font-family: "oswald", sans-serif;
+  color: indigo;
+  text-decoration: none;
+  font-size: larger;
+}
+a:hover {
+  text-decoration: underline;
+  color: green;
+}
+
+#shiv {
+  text-align: center;
+  font-size: 23px;
+}
+#progress {
+  font-size: 17px;
+  color: red;
+  font-family: cursive;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+}
+#contact{
+    text-align: center;
+    text-decoration: underline;
+}
